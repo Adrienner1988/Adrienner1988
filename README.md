@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adrienner1988
-- 👀 I’m interested in fron-end engineering 
+- 👀 I’m interested in front-end engineering 
 - 🌱 I’m currently learning responsive web design
 - 💞️ I’m looking to collaborate on anything, I need all the expirence!
 - 📫 How to reach me at adrienerdaniels@gmail.com
